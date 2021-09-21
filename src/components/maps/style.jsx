@@ -47,4 +47,15 @@ export const style = StyleSheet.create({
   description: {
     fontSize: 20,
   },
+  textLocal: {
+    paddingTop: 5,
+  },
+  containerMarker: {
+
+    width: 70,
+    height: 70,
+    justifyContent: 'flex-end',
+    alignItems: 'center',
+
+  }
 })
